@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-09-main",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/armand1205/goit-js-hw-09-main",
@@ -15,13 +15,16 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/goitacademy/goit-js-hw-09-main/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "caniuse-lite": "^1.0.30001683",
+    "flatpickr": "^4.6.13",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.7"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.6.0",
+    "@parcel/transformer-sass": "^2.13.0",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
